@@ -1,0 +1,5 @@
+## js-leetcode
+
+```
+node  .js
+```
